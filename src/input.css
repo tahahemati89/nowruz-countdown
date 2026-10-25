@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: cascadiaCode;
+    src: url(/Fonts/CascadiaCode-Medium.ttf);
+}
+
+@font-face {
+    font-family: cascadiaCodeLight;
+    src: url(/Fonts/CascadiaCode-Light.ttf);
+}
+
+body {
+    font-family: cascadiaCode;
+    height: 100dvh;
+}
+
+.main {
+    background-image: url(/images/background.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
