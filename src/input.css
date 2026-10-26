@@ -16,7 +16,7 @@ body {
 }
 
 .main {
-    background-image: url(/images/background.jpg);
+    background-image: url(../images/background.jpg);
     height: 100%;
     background-repeat: no-repeat;
     background-position: bottom;
