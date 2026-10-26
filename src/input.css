@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: cascadiaCode;
-    src: url(/Fonts/CascadiaCode-Medium.ttf);
+    src: url(../Fonts/CascadiaCode-Medium.ttf);
 }
 
 @font-face {
     font-family: cascadiaCodeLight;
-    src: url(/Fonts/CascadiaCode-Light.ttf);
+    src: url(../Fonts/CascadiaCode-Light.ttf);
 }
 
 body {
